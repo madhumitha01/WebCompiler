@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/madhumitha01/WebCompiler/issues"
   },
-  "homepage": "https://github.com/madhumitha01/WebCompiler",
+  "homepage": "https://madhumitha01.github.io/WebCompiler",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }

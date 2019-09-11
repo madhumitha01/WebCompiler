@@ -6,16 +6,9 @@
   "scripts": {
     "deploy": "gh-pages -d"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/madhumitha01/WebCompiler.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/madhumitha01/WebCompiler/issues"
-  },
   "homepage": "https://madhumitha01.github.io/WebCompiler",
   "dependencies": {
     "gh-pages": "^2.1.1"
